@@ -135,7 +135,7 @@
     },
     "reliabilityLevel": {
       "type": "string",
-      "defaultValue": "Silver",
+      "defaultValue": "Bronze",
       "metadata": {
         "description": "The reliability level of the SF system servics"
       }
